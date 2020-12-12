@@ -1,1 +1,1 @@
-### Complimentary file for blog post: http://karolos.me/2020/12/12/using-redis-as-a-cache-mechanism/
+- Complimentary file for blog post: http://karolos.me/2020/12/12/using-redis-as-a-cache-mechanism/
